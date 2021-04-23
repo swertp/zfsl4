@@ -40,7 +40,7 @@
                  "value":"..\/Floor1\/floor1.json"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -58,7 +58,7 @@
                  "value":"..\/Lyon\/lyon.json"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -70,7 +70,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -82,7 +82,7 @@
          "name":"top",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -94,7 +94,7 @@
          "name":"book",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -106,7 +106,7 @@
          "name":"ordi",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -118,7 +118,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -194,7 +194,7 @@
                  "value":"park.mp3"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -212,7 +212,7 @@
                  "value":"https:\/\/padlet.com\/swertp\/ah54mndgf5bysqwh"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -230,7 +230,7 @@
                  "value":"https:\/\/padlet.com\/swertp\/mvp2iu03g23qpl08"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -248,7 +248,7 @@
                  "value":"https:\/\/padlet.com\/swertp\/2k8f0ew7w2gjmvc4"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -266,7 +266,7 @@
                  "value":"https:\/\/padlet.com\/swertp\/r2m9wk1atexo01gq"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -284,7 +284,7 @@
                  "value":"https:\/\/padlet.com\/swertp\/u03nt5m9gra3sr6k"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -354,7 +354,7 @@
          "height":34,
          "id":23,
          "name":"R9 Miroboard",
-         "opacity":0,
+         "opacity":1,
          "properties":[
                 {
                  "name":"openWebsite",
@@ -364,7 +364,7 @@
                 {
                  "name":"openWebsitePolicy",
                  "type":"string",
-                 "value":"fullscreen"
+                 "value":"*"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -451,7 +451,7 @@
                  "value":"Um Am Plenum teilzunehmen bitte Leertaste dr\u00fccken"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -479,7 +479,7 @@
                  "value":"Um Am Plenum teilzunehmen bitte Leertaste dr\u00fccken"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -507,7 +507,7 @@
                  "value":"Um Am Plenum teilzunehmen bitte Leertaste dr\u00fccken"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
