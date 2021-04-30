@@ -70,7 +70,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -248,11 +248,6 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"jitisiTriggerMessage",
-                 "type":"string",
-                 "value":"Um Am Gesp\u00e4ch teilzunehmen bitte Leertaste dr\u00fccken"
-                }, 
-                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"R9 Plenum"
@@ -261,6 +256,11 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Um Am Gesp\u00e4ch teilzunehmen bitte Leertaste dr\u00fccken"
                 }],
          "type":"tilelayer",
          "visible":false,
