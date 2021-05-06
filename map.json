@@ -360,7 +360,7 @@
                 {
                  "name":"jitsiUrl",
                  "type":"string",
-                 "value":"jitsi.uni-due.de"
+                 "value":"meet.ffmuc.net"
                 }],
          "type":"tilelayer",
          "visible":true,
