@@ -449,7 +449,7 @@
                 {
                  "name":"jitsiUrl",
                  "type":"string",
-                 "value":"jitsi.uni-due.de"
+                 "value":"meet.scheible.it"
                 }],
          "type":"tilelayer",
          "visible":true,
