@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/swertp.github.io\/zfsl4\/etage.json"
+                 "value":"_\/global\/swertp.github.io\/zfsl4\/etage.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -191,7 +191,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/padlet.com\/swertp\/ah54mndgf5bysqwh"
+                 "value":"https:\/\/zfsl-kr.taskcards.app\/#\/board\/a7f9a540-dc0a-4a0f-b589-0f78ba6c2a42?token=13cca312-c7a4-4138-8465-53463287a83f"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -240,7 +240,7 @@
          "height":34,
          "id":33,
          "name":"R14 Flipchart unten",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"openWebsite",
