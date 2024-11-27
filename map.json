@@ -209,7 +209,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/padlet.com\/swertp\/mvp2iu03g23qpl08"
+                 "value":"https:\/\/zfsl-kr.taskcards.app\/#\/board\/04365c53-acdb-4910-b5e7-cd33016108c9?token=d31ce6b7-bf9b-4329-ab54-4a7c48c71f23"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -227,7 +227,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/padlet.com\/swertp\/6i83j9frzvkg81m4"
+                 "value":"https:\/\/zfsl-kr.taskcards.app\/#\/board\/a7f9a540-dc0a-4a0f-b589-0f78ba6c2a42?token=13cca312-c7a4-4138-8465-53463287a83f"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -266,7 +266,7 @@
                  "value":"https:\/\/padlet.com\/swertp\/8tq3hjico1yo60d4"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
