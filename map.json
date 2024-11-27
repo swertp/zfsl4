@@ -127,7 +127,7 @@
          "height":34,
          "id":7,
          "name":"override",
-         "opacity":0.5,
+         "opacity":0.53,
          "properties":[
                 {
                  "name":"depth",
@@ -240,12 +240,12 @@
          "height":34,
          "id":33,
          "name":"R14 Flipchart unten",
-         "opacity":0,
+         "opacity":1,
          "properties":[
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/padlet.com\/swertp\/2k8f0ew7w2gjmvc4"
+                 "value":"https:\/\/zfsl-kr.taskcards.app\/#\/board\/04365c53-acdb-4910-b5e7-cd33016108c9?token=d31ce6b7-bf9b-4329-ab54-4a7c48c71f23"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -469,7 +469,7 @@
          "name":"override2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
